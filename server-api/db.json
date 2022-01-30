@@ -1,0 +1,463 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Daily 12 Color Oversized Cardigan",
+      "price": 109.95,
+      "description": "Casual menswear without the crazy price tag — if you’re in search of a new aesthetic and don’t know where to start, TIAG is an excellent option. Their selection of graphic tees, jeans, and sweaters are unique but not over-the-top and are reasonably priced. TIAG can be worn by anyone because it combines traditional men’s clothing — like shirts and sweaters — with out-of-the-box details, like asymmetrical pockets. Find your new favorite pieces today.",
+      "category": "top",
+      "image": "https://cdn-images.kooding.com/productDetailImage/127651-1/b1ac92c9de4786e4f36cedee606b2a7accd1c56e.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/127651-1/b1ac92c9de4786e4f36cedee606b2a7accd1c56e.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/127651-1/b6a2720915b42f85f12c1850bfcad6cc13203112.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/127651-1/884ac48917c9daa7c3389667012a9ac27cdae2d7.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/127651-1/49834acecb5cb3f4a88aaec5736dba7cd081bf74.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/127651-1/2c43a7c07698d82806e76fa780a61f9d54fc60e1.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/127651-1/a5590406cb4c27fc1ac670638b9bc87106060a3c.jpg"
+      ],
+      "size": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 2,
+      "title": "Vintage Patched Cardigan",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "top",
+      "image": "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-0000-22322.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-0000-22322.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-00005-10817.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-00006-10775.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-00007-10244.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-00009-9760.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/144281-1/Korean-American-Online-Fashion-Shopping-Website-00015-8450.jpg"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "title": "Plan Oversized Double Fleeced Cardigan",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "top",
+      "image": "https://cdn-images.kooding.com/productDetailImage/267781-2/8c8507ea7d754e1d329c27f930379d1dfff75021.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/267781-2/8c8507ea7d754e1d329c27f930379d1dfff75021.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/267781-2/824725fec9e9dde8b9f65f1c6b32b47ee7550c7a.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/267781-2/681eea5407963ad40808763d31db04332e636332.jpg"
+      ],
+      "size": ["S", "M"]
+    },
+    {
+      "id": 4,
+      "title": "Wool Blended Argyle Oversized Cardigan",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "top",
+      "image": "https://cdn-images.kooding.com/productDetailImage/233395-2/5f332c8d8f551a237c7029f19b9a2721d4021528.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/233395-2/5f332c8d8f551a237c7029f19b9a2721d4021528.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/233395-2/ce5674247bccd09c2dfe572b5743f74534d9aea7.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/233395-2/306058d1f910309c4a0be40ec90f426fc6813472.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/233395-2/b1e0f9b55f4452119daef0c5fef146ca29d70132.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/233395-2/1df0abdca45a38aaf0af400edaec7e245d48b9ca.jpg"
+      ],
+      "size": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 5,
+      "title": "Alice Plaid Cardigan",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "outwear",
+      "image": "https://cdn-images.kooding.com/productDetailImage/225122-2/084161af79aac06a4514dba40d8f19eecfb233be.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/225122-2/084161af79aac06a4514dba40d8f19eecfb233be.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/225122-2/26d956e00922295a619a82417dbdd8f00a2de271.jpg"
+      ],
+      "size": ["S", "M", "XL", "XXL"]
+    },
+    {
+      "id": 6,
+      "title": "Crush Check Semi Oversized Cardigan",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "outwear",
+      "image": "https://cdn-images.kooding.com/productDetailImage/295818-2/54cbd56d2054fd5761a007bda40edb57f7924c3a.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/295818-2/54cbd56d2054fd5761a007bda40edb57f7924c3a.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/295818-2/d74c3c46690dfdb25ad7cc339850ff99806dda3b.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/295818-2/e3361e6429486c12587430caae1e2fb99ef81633.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/295818-2/2a08d439cf7783a280ef07defe49df7281359d10.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/295818-2/99523ca1822621a43eab7f8693b694489e0ea568.jpg"
+      ],
+      "size": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 7,
+      "title": "15C Project Over Half Tee",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "top",
+      "image": "https://cdn-images.kooding.com/productDetailImage/160041-1/Korean-American-Online-Fashion-Shopping-Website-0000-36686.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/160041-1/Korean-American-Online-Fashion-Shopping-Website-0000-36686.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/160041-1/Korean-American-Online-Fashion-Shopping-Website-00002%20(1)-739.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/160041-1/Korean-American-Online-Fashion-Shopping-Website-00002%20(2)-765.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/160041-1/Korean-American-Online-Fashion-Shopping-Website-00002%20(3)-638.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/160041-1/Korean-American-Online-Fashion-Shopping-Website-00002%20(4)-472.jpg"
+      ],
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 8,
+      "title": "Basic Beanie",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "accessories",
+      "image": "https://cdn-images.kooding.com/productDetailImage/189218-1/0-884.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/189218-1/0-884.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/189218-1/Korean-American-Online-Fashion-Shopping-Website-00001-3797.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/189218-1/Korean-American-Online-Fashion-Shopping-Website-00002-7589.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/189218-1/Korean-American-Online-Fashion-Shopping-Website-00003-30104.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/189218-1/Korean-American-Online-Fashion-Shopping-Website-00004-29780.jpg"
+      ],
+      "size": []
+    },
+    {
+      "id": 9,
+      "title": "One Color Watch Cap",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "accessories",
+      "image": "https://cdn-images.kooding.com/productDetailImage/189202-1/0-868.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/189202-1/0-868.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/189202-1/a1e39959abe73976f3e1539d73f1b3d1.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/189202-1/Korean-American-Online-Fashion-Shopping-Website-00002-7582.jpg"
+      ],
+      "size": []
+    },
+    {
+      "id": 10,
+      "title": "Basic Bucket Hat",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "accessories",
+      "image": "https://cdn-images.kooding.com/productDetailImage/225254-2/19ba9164e3ba87f45ddb80c011013ce35708f6ce.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/225254-2/19ba9164e3ba87f45ddb80c011013ce35708f6ce.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/225254-2/6fddaf2668ddeea27644202c83674cad5c3fa114.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/225254-2/b4651d18767028e084daf4c68261c2d2cc9c0431.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/225254-2/e4bbdfbc16c6d8d0961de7c78980a2e30c81baf0.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/225254-2/03244cd9b9217cecda5c0e881ad425ac595436e1.jpg"
+      ],
+      "size": []
+    },
+    {
+      "id": 11,
+      "title": "5cm Up Wide Denim Pants",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "bottom",
+      "image": "https://cdn-images.kooding.com/productDetailImage/274050-2/a3cca1b893ba0bce41b7503d7f55204e4c0453f6.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/274050-2/a3cca1b893ba0bce41b7503d7f55204e4c0453f6.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/274050-2/9d4b21ee96151ab849e245e3098e999916ca00a9.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/274050-2/613fc79e2c45b322feffe9b0948a334247661a13.jpg"
+      ],
+      "size": ["XL", "XXL"]
+    },
+    {
+      "id": 12,
+      "title": "Long Wide Jeans",
+      "price": 114,
+      "description": "REDHOMME is a menswear brand focused on keeping you looking trendy, but classic. With a variety of straight-leg slacks, clean and classic t-shirts, and button-ups that are fit for both work and play, REDHOMME is the ideal brand for any man who wants to look stylish with no fuss or hassle.",
+      "category": "bottom",
+      "image": "https://cdn-images.kooding.com/productDetailImage/228144-2/b6d814b4ae07326d4ad114f461374c0dd197997b.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/228144-2/b6d814b4ae07326d4ad114f461374c0dd197997b.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/228144-2/5face1c3bf322905d31de65e33968183403c1cd2.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/228144-2/b528f8746a2a185be15c5881c3085461f8847de4.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/228144-2/f0715f259a161f7f78104cf17730acbb0f91d7f6.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/228144-2/0fbdd3264d71ece46d0983d19a4a7bb58f9664d6.jpg"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 13,
+      "title": "Painting Jeans",
+      "price": 599,
+      "description": "https://cdn-images.kooding.com/productDetailImage/214809-2/9e26cdf0b36c07bb0cea2df651583dc6354cb105.jpg",
+      "category": "bottom",
+      "image": "https://cdn-images.kooding.com/productDetailImage/214809-2/9e26cdf0b36c07bb0cea2df651583dc6354cb105.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/214809-2/9e26cdf0b36c07bb0cea2df651583dc6354cb105.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/214809-2/ab56b7cd5760a259271950f1efa2e4df3d7f3a17.jpg"
+      ],
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 14,
+      "title": "Alice Trucker Jacket",
+      "price": 999.99,
+      "description": "With classic but contemporary vibe, FLYDAY offers incredible variety of on-trend products combined with its affordable prices. From daily knitwear, pants, outerwear and accessories, the site offers a wide range of essential products, as well as trendy outfit coordination for every season. Find your favorite pieces today and enjoy their timeless look!",
+      "category": "outwear",
+      "image": "https://cdn-images.kooding.com/productDetailImage/271202-2/43f351bfc4616cdf60b3d3158cc41ebdd7c88081.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/271202-2/43f351bfc4616cdf60b3d3158cc41ebdd7c88081.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/271202-2/04cf30ee79d8d7d55b859ca7ead9ed8f18a54c7b.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/271202-2/5357b40b49e7f10c49eaf3d47d64163490e139f1.jpg"
+      ],
+      "size": ["S", "M"]
+    },
+    {
+      "id": 15,
+      "title": "Minimal Hidden Button Crop Jacket",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "outwear",
+      "image": "https://cdn-images.kooding.com/productDetailImage/270766-2/66cc9f6676c188784365176b3617d5ebbb81b649.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/270766-2/66cc9f6676c188784365176b3617d5ebbb81b649.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/270766-2/a9c29410b0ef40270e54f067d26857d44e931635.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/270766-2/b70a986453312f185048a1d38a25dafe0e7733e7.jpg"
+      ],
+      "size": ["L", "XL", "XXL"]
+    },
+    {
+      "id": 16,
+      "title": "Unisex Han River Graphic Tee 006 White",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "outwear",
+      "image": "https://cdn-images.kooding.com/productDetailImage/294774-2/2ac0ad4e5d2bb88bab490853b06fd9ea43f9b189.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/294774-2/2ac0ad4e5d2bb88bab490853b06fd9ea43f9b189.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/294774-2/6bceb3dae64750a3481f8d89e750c733fd12c024.jpg"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 17,
+      "title": "Weekend Tote 606 Black",
+      "price": 39.99,
+      "description": "With minimalism in mind, RAWROW bags are designed to carry a lot without looking bulky or heavy. Available in neutral colors and tones, their bag selection is designed for practicality and long-term use.",
+      "category": "accessories",
+      "image": "https://cdn-images.kooding.com/productDetailImage/287073-2/a598f80c876ceede693c1efe4cffac71dda24553.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/287073-2/a598f80c876ceede693c1efe4cffac71dda24553.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287073-2/b535caba4473dfcce4cabfbffb1f1950b4b3c628.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287073-2/45f26e7996ba3dbea8ba2151760d7cf9e7dc5047.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287073-2/053ae6e62da561ffcad96e8b7c771a5a27b4b552.jpg"
+      ],
+      "size": []
+    },
+    {
+      "id": 18,
+      "title": "Unisex Loose Fit Sweatshorts Black",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "bottom",
+      "image": "https://cdn-images.kooding.com/productDetailImage/294730-2/29ea5a07994dd9ca221ccb4ae799b0b98398f0bb.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/294730-2/29ea5a07994dd9ca221ccb4ae799b0b98398f0bb.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/294730-2/29d53d55de9fee6cfd7e54d87e76026e5c21b97d.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/294730-2/7579cc00d6de9b584e15c89e5ce2c5bde41cbcf3.jpg"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 19,
+      "title": "2 Ways Silver Grey Twill Polyester Backpack",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "accessories",
+      "image": "https://cdn-images.kooding.com/productDetailImage/213721-2/e5d7c579ceb70befdc558a476a7181b09b70ac4f.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/213721-2/e5d7c579ceb70befdc558a476a7181b09b70ac4f.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/213721-2/837fe4d57201eb982b1106c18185cd6c08982481.jpg"
+      ],
+      "size": []
+    },
+    {
+      "id": 20,
+      "title": "Weekend Tote 606 Mint",
+      "price": 12.99,
+      "description": "With minimalism in mind, RAWROW bags are designed to carry a lot without looking bulky or heavy. Available in neutral colors and tones, their bag selection is designed for practicality and long-term use.",
+      "category": "accessories",
+      "image": "https://cdn-images.kooding.com/productDetailImage/287075-2/e1117999ef81f0f3a83d30ebf9e180afa37a8a57.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      },
+      "imageChild": [
+        "https://cdn-images.kooding.com/productDetailImage/287075-2/e1117999ef81f0f3a83d30ebf9e180afa37a8a57.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287075-2/2a5f7b7b8ae7fdd7899f73023221620e8e4a07a5.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287075-2/cdcbffa564660b1af906c800af4c2d1e86f61811.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287075-2/c9036c856db050a812c1bf5a1111596bc557dae3.jpg",
+        "https://cdn-images.kooding.com/productDetailImage/287075-2/352fa65401afbb02a005b30e1a7e4804556ed9ca.jpg"
+      ],
+      "size": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "display": "Home",
+      "path": "/",
+      "childMenu": []
+    },
+    {
+      "id": 2,
+      "display": "top",
+      "path": "/products/category/top",
+      "childMenu": [
+        {
+          "id": 7,
+          "display": "t-shirts",
+          "path": "/products/category/t-shirts"
+        },
+        {
+          "id": 8,
+          "display": "shirts",
+          "path": "/products/category/shirts"
+        },
+        {
+          "id": 9,
+          "display": "sweaters",
+          "path": "/products/category/sweaters"
+        },
+        {
+          "id": 10,
+          "display": "hoodies",
+          "path": "/products/category/hoodies"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "display": "Bottom",
+      "path": "/products/category/bottom",
+      "childMenu": [
+        {
+          "id": 11,
+          "display": "Shorts",
+          "path": "/Shorts"
+        },
+        {
+          "id": 12,
+          "display": "Cargo",
+          "path": "/Cargo"
+        },
+        {
+          "id": 13,
+          "display": "Denim",
+          "path": "/Denim"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "display": "Outwear",
+      "path": "/products/category/outwear",
+      "childMenu": []
+    },
+    {
+      "id": 4,
+      "display": "Sale",
+      "path": "/",
+      "childMenu": []
+    },
+    {
+      "id": 5,
+      "display": "Accessories",
+      "path": "/products/category/accessories",
+      "childMenu": []
+    },
+    {
+      "id": 6,
+      "display": "About us",
+      "path": "/",
+      "childMenu": []
+    }
+  ],
+  "orders": []
+}
